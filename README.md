@@ -1,5 +1,5 @@
 ┌──(root㉿kali)-[~/projects]
-└─$ cat README.md
+└─$ more README.md
 
     ╔╗╔╔═╗  ╔═╗╦ ╦╔═╗╔╦╗╔═╗╔╦╗  ╦╔═╗  ╔═╗╔═╗╔═╗╔═╗
     ║║║║ ║  ╚═╗╚╦╝╚═╗ ║ ║╣ ║║║  ║╚═╗  ╚═╗╠═╣╠╣ ║╣ 
@@ -16,7 +16,7 @@
     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┌──(root㉿kali)-[~/projects]
-└─$ nmap -sV -A --script=all target.system
+└─$ gpg -c /hacktools && mv hacktools.gpg ~/.local/share/ && chmod 600 ~/.local/share/hacktools.gpg && chattr +i ~/.local/share/hacktools.gpg
 
 # H4CK TOOLS:
 
