@@ -35,6 +35,8 @@ Files:
 * `wldomains.txt` — Lista de Palavras.
 * `adv_trojan.py`, `cowroot*.c`, `peshell.c` — POCs/Alto Risco (Usar Só Em Lab).
 
+[![Ir para o repositório](https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-blue?style=for-the-badge&logo=github)](https://github.com/euojeffoliver/tools.git)
+
 ---
 
 # METODOLOGIA:
