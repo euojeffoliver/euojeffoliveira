@@ -1,4 +1,5 @@
-┌──(root㉿kali)-[~/projects]
+┌──(root㉿blackarch)-[~/projects]
+
 └─$ more README.md
 
     ╔╗╔╔═╗  ╔═╗╦ ╦╔═╗╔╦╗╔═╗╔╦╗  ╦╔═╗  ╔═╗╔═╗╔═╗╔═╗
@@ -15,7 +16,8 @@
     ┃                                            ┃
     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-┌──(root㉿kali)-[~/projects]
+┌──(root㉿blackarch)-[~/projects]
+
 └─$ gpg -c /hacktools && mv hacktools.gpg ~/.local/share/ && chmod 600 ~/.local/share/hacktools.gpg && chattr +i ~/.local/share/hacktools.gpg
 
 # H4CK TOOLS:
